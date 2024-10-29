@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&text=Welcom!&desc=Hi%20there!%20I'm%20Heejin%20Kong😄&fontColor=d6ace" />
 </div>
 
-
+<br>
 <div align="center">
 
   ![HeejinKong's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejinkong&show_icons=true&bg_color=00000000)
@@ -12,8 +12,8 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejinkong&langs_count=10&layout=compact&theme=00000000)
 
 </div>
-
-
+<br>
+<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 5px;"/> 
