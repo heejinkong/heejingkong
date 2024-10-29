@@ -4,13 +4,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&text=Welcom!&desc=Hi%20there!%20I'm%20Heejin%20Kong😄&fontColor=d6ace" />
 </div>
 
-<div align="center">
-![HeejinKong's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejinkong&show_icons=true&bg_color=00000000)
-</div>
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejinkong&langs_count=10&layout=compact&theme=00000000)
+
+  ![HeejinKong's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejinkong&show_icons=true&bg_color=00000000)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejinkong&langs_count=10&layout=compact&theme=00000000)
+
 </div>
+
+
 <!--내용 부분-->
 <h3> 💻 Tech Stack💻 </h3>
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
