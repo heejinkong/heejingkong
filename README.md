@@ -15,14 +15,14 @@
 <br>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="margin: 5px;"/>>&nbsp
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 5px;"/> >&nbsp
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" style="margin: 5px;"/> >&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" style="margin: 5px;"/> >&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 5px;"/> >&nbsp
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="margin: 5px;"/>&nbsp
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 5px;"/>&nbsp
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" style="margin: 5px;"/>&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" style="margin: 5px;"/>&nbsp
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 5px;"/>&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin: 5px;"/> >&nbsp
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" style="margin: 5px;"/> >&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px;"/> >&nbsp
-  <img src="https://img.shields.io/badge/sap-0FAAFF?style=for-the-badge&logo=SAP&logoColor=0FAAFF" style="margin: 5px;"/> >&nbsp
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" style="margin: 5px;"/>&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px;"/>&nbsp
+  <img src="https://img.shields.io/badge/sap-0FAAFF?style=for-the-badge&logo=SAP&logoColor=0FAAFF" style="margin: 5px;"/>&nbsp
 </div>>
 
