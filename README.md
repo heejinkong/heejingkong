@@ -1,7 +1,9 @@
 # heejingkong
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&text=Welcom!&desc=Hi%20there!%20I'm%20Heejin%20Kong😄&fontColor=d6ace" />
+  <img src="https://capsule-render.vercel.app/api?
+type=rounded&color=auto&text=Welcome%20to%20Bi's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180&fontColor=d6ace" />
 </div>
 
 <br>
