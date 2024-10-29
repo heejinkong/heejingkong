@@ -1,7 +1,7 @@
 # heejingkong
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=&text=Welcome%20to%20HeejinKong's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=&text=Welcome%20to%20HeejinKong's%20GitHub%20😄animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180"/>
 </div>
 
 <br>
