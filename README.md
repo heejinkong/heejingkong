@@ -5,6 +5,18 @@
 </div>
 
 <br>
+
+
+<div align="center">
+
+  ![HeejinKong's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejinkong&show_icons=true&bg_color=00000000)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejinkong&langs_count=10&layout=compact&theme=00000000)
+
+</div>
+
+
+<br>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin: 5px;"/>&nbsp
@@ -39,11 +51,3 @@
 
 <br>
 
-<div align="center">
-
-  ![HeejinKong's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejinkong&show_icons=true&bg_color=00000000)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejinkong&langs_count=10&layout=compact&theme=00000000)
-
-</div>
-<br>
