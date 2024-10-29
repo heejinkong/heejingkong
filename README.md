@@ -6,7 +6,8 @@
 
 ![HeejinKong's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejinkong&show_icons=true&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejinkong&langs_count=10&layout=compact&theme=00000000)](https://github.com/jogilsang/jogilsang)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejinkong&langs_count=10&layout=compact&theme=00000000)
+
 <!--내용 부분-->
 <h3> 💻 Tech Stack💻 </h3>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
