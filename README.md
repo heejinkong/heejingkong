@@ -15,6 +15,7 @@
 <br>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white" style="margin: 5px;"/>&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="margin: 5px;"/>&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 5px;"/>&nbsp
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" style="margin: 5px;"/>&nbsp
