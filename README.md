@@ -94,11 +94,9 @@
 
 
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; align-items: center;">
     <a href="mailto:gmlwls3379@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
     </a>
-</div>
 </div>
    
